@@ -2,7 +2,7 @@
 
 Hi everyone! It's my first attempt to model CNC router in CAD software. Work still in progress, but CAD pretty much done. 
 
-[Current state screenshot](https://github.com/Shkolik/CNC4060/raw/main/docs/Full%20assembly.png)
+![image](https://github.com/Shkolik/CNC4060/raw/main/docs/Full%20assembly.png)
 
 # Materials
 
